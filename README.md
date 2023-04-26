@@ -20,7 +20,8 @@
 > Unfortunately, Creator does not provide Socket.io official support on the Web platform,<br>
 > requires users to add them themselves to the project.<br> 
 > And the Socket.io of the native platform is discarded.<br>
-> Previously the socket.io for the native platform was implemented by a third-party developer and has not been maintained for a long time.<br>
+> Previously the socket.io for the native platform was implemented <br>
+> by a third-party developer and has not been maintained for a long time.<br>
 > So it is not recommended to use.br
 
 ---
