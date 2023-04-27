@@ -35,6 +35,8 @@
 npm install socket.io-client
 ```
 
+<br>
+
 2.在cocos creator的專案中新增ts檔案，這邊我們可以命名成socket.io-client.d.ts***，並且在裡面新增以下代碼.
 ```typescript
 declare module "socket.io-client/dist/socket.io.js" {
@@ -46,13 +48,19 @@ declare module "socket.io-client/dist/socket.io.js" {
 > 如果要在cocos Creator 中使用它，那我們應該要使用編譯後的版本，<br>
 > import io from 'socket.io-client/dist/socket.io.js';<br>
 
+<br>
+
 3. 當上述檔案創建完畢後，即可切回cocos creator，會看見cocos會自動創建meta檔案，好讓專案可以順利的include.<br>
 接下來我們就可以直接import使用，如下：
 ```typescript
 import { io } from 'socket.io-client/dist/socket.io.js';
 ```
 
+<br>
+
 4. import 完之後，接下來就可以直接使用，其用法就跟socket.io的用法一樣，這邊就不多敘述.
+
+<br>
 
 ---
 <br>
