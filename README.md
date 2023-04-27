@@ -14,7 +14,8 @@
 
 ## 簡介.
 在cocos的官方技術文件中有明確的提到，他們只唯一支援websocket，目前也不打算新增支援socket.io，<br>
-但是隨著nodejs的技術發展以及使用的人數攀升，相信有不少人都會選擇用Nodejs+Express+Socket.io來進行與玩家的一個長連接網路應用.<br>
+但是隨著nodejs的技術發展以及使用的人數攀升，相信有不少人都會選擇用<br>
+Nodejs+Express+Socket.io來進行與玩家的一個長連接網路應用.<br>
 但官方不支援怎麼辦? 其實官方本身也有提到，雖然不支援，但使用者可以自行用第三方的方式進行安裝使用，那具體該怎麼做呢？<br>
 
 > Unfortunately, Creator does not provide Socket.io official support on the Web platform,<br>
