@@ -18,7 +18,7 @@
 來進行與玩家的一個長連接網路應用. 但官方不支援怎麼辦? <br>
 其實官方本身也有提到，雖然不支援，但使用者可以自行用第三方的方式進行安裝使用，那具體該怎麼做呢？<br>
 
-> 官方文件中提到：
+> 官方文件中提到：<br>
 > Unfortunately, Creator does not provide Socket.io official support on the Web platform,<br>
 > requires users to add them themselves to the project.<br> 
 > And the Socket.io of the native platform is discarded.<br>
