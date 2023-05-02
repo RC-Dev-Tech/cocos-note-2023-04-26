@@ -1,4 +1,4 @@
-# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 如何在cocos creator使用socket.io
+# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 如何在cocos creator使用socket.io (限定v3.0)
 
 <br>
 
