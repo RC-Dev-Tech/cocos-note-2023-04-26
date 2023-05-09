@@ -1,6 +1,6 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) How to using socket.io on cocos creator (v3.0)
 
-<br>
+---
 
 <!--ts-->
 ## 目錄
@@ -10,7 +10,6 @@
 <!--te-->
 
 ---
-<br>
 
 ## 簡介
 在cocos的官方技術文件中有明確的提到，他們只唯一支援websocket，目前也不打算新增支援socket.io，<br>
@@ -27,7 +26,6 @@
 > So it is not recommended to use.br
 
 ---
-<br>
 
 ## 解決方式
 1.首先，我們要先在cocos creator專案中安裝***socket.io-client***
@@ -63,7 +61,6 @@ import { io } from 'socket.io-client/dist/socket.io.js';
 <br>
 
 ---
-<br>
 
 ## 參考資料
 * [cocos - Standard network interface](https://docs.cocos.com/creator/2.4/manual/en/scripting/network.html) <br>
